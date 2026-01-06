@@ -67,3 +67,6 @@ Documentation: Clear and structured documentation for business and analytics use
 📈 Outcome
 
 The final solution delivers a scalable, analytics-ready data warehouse that supports reporting, insights generation, and business decision-making—reflecting real-world data engineering and analytics practices.
+
+About Me-
+I am a Data Analyst with 2 years of experience working with SQL, data modeling, and analytics to turn raw data into meaningful insights. I focus on building clean, reliable datasets and translating business requirements into data-driven solutions that support better decision-making. 
