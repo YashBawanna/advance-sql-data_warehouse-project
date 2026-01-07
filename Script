@@ -43,12 +43,4 @@ GO
 Create schema Gold;
 Go
 
-Create Table Bronze.crm_cust_info(
-cst_id INT,
-cst_key nvarchar(50),
-cst_firstname nvarchar(50),
-cst_lastname nvarchar(50),
-cst_martial_status nvarchar(50),
-cst_gndr nvarchar(50),
-cst_create_date Date
-)
+
